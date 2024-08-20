@@ -63,27 +63,27 @@ Try again?(y/n)
 
 ### Main Menu
 
-#### 1- ADD
+#### 1)ADD
 
-#### 2- DELETE
+#### 2)DELETE
 
-#### 3- MODIFY
+#### 3)MODIFY
 
-#### 4- SEARCH
+#### 4)SEARCH
 
-#### 5- ADVANCED SEARCH
+#### 5)ADVANCED SEARCH
 
-#### 6- WITHDRAW
+#### 6)WITHDRAW
 
-#### 7- DEPOSIT
+#### 7)DEPOSIT
 
-#### 8- TRANSFER
+#### 8)TRANSFER
 
-#### 9- REPORT
+#### 9)REPORT
 
-#### 10- PRINT
+#### 10)PRINT
 
-#### 11- QUIT
+#### 11)QUIT
 
 ```
 enter value of needed function(1-11):
