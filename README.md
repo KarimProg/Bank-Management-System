@@ -2,9 +2,8 @@
 
 ## Description
 
-```
 This is a simple command-line bank management program written in C.
-```
+
 ## Features
 
 - Login
